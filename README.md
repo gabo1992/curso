@@ -4,3 +4,4 @@
 documentos del curso de R basico
 -instalar
 -abrir programa 
+### lista 
